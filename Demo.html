@@ -14,12 +14,12 @@
   <script src="./bootstrap-tags-input.js"></script>
   <script>
     $(document).ready(function () {
-      var currentTag = ['garson','www.u-cms.com','www.yesdotnet.com','www.jocsoft.cn']
+      var dataSource = ['garson','www.u-cms.com','www.yesdotnet.com','www.jocsoft.cn']
       var editTag = GZTagsInput.init({
         el: $("#tags"),
-        popupContainer: $("#form"),
-        dataSource: $('body'),
-        value: currentTag
+        popupContainer: $('body'),
+        dataSource: dataSource,
+        value: ['www.u-cms.com']
       })
     })
   </script>
