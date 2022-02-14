@@ -5,9 +5,9 @@
 * 支持向上向下快捷键选择
 * 支持del删除
 
-##界面预览
+## 界面预览
 ![](https://github.com/garsonzhang/bootstrap-tags-input/raw/master/imgs/p0.png) 
-##数据选择
+## 数据选择
 ![](https://github.com/garsonzhang/bootstrap-tags-input/raw/master/imgs/p1.gif) 
 
 使用方法：
