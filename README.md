@@ -10,6 +10,9 @@
 ## 数据选择
 ![](https://github.com/garsonzhang/bootstrap-tags-input/raw/master/imgs/p1.gif) 
 
+## 在线Demo体验
+https://garsonzhang.github.io/bootstrap-tags-input/Demo.html
+
 使用方法：
 
 ## 使用，先调用 GZTagsInput.init(options) 初始化组件，返回组件示例 GZTagsInputMain
