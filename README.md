@@ -10,8 +10,8 @@
 ## 数据选择
 ![](https://github.com/garsonzhang/bootstrap-tags-input/raw/master/imgs/p1.gif) 
 
-## 在线Demo体验
-https://garsonzhang.github.io/bootstrap-tags-input/Demo.html
+[在线Demo体验](https://garsonzhang.github.io/bootstrap-tags-input/Demo.html)
+
 
 使用方法：
 
