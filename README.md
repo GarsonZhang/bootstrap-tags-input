@@ -17,27 +17,27 @@ GZTagsInputMain.setValue(array) 设置值，参数为array类型，也可以在�
 
 # 示例
 引用资源
-``
+```
 <link rel="stylesheet" href="/lib/bootstrap-tags-input/bootstrap-tags-input.css" />
 <script src="~/lib/bootstrap-tags-input/bootstrap-tags-input.js"></script>
-``
+```
 html代码  
-``
+```
 <div class="form-group row no-gutters">
 	<div class="col gz-layout gz-layout-row gz-layout-center">
 		<label class="gz-form-label">标签</label>
 		<div class="gz-layout-item" id="tags"></div>
 	</div>
 </div>
-``
+```
 初始化tags  
-``
+```
 editTag = GZTagsInput.init({
 	el:$("#tags"),
 	popupContainer:$("#form"),
 	dataSource:dataSource,
 	value:currentTag
 })
-``
+```
 获得值
-``var vtags=editTag.getValue()``
+```var vtags=editTag.getValue()```
